@@ -6,7 +6,7 @@
 </p> 
 <h3 align="center">Artista e programadora</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Osasco. Estou iniciando minha carreira em Engenharia de Software e gosto de idealizar e projetar jogos como hobby.🕹️
+Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas. Estou iniciando minha carreira em Tecnologia com foco em atuar futuramente na Engenharia de Software.
 </p>
 
 #
