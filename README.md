@@ -2,11 +2,11 @@
 <h1 align=center>Olá, como vai?  Sou a Isabella Alves, prazer!</h1> <br>
 
 <p align="center">
- <img alt="banner_IsabellaSMA" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/main/banner_github%20(1).png" alt="banner_IsabellaSMA" width="75%">
+ <img alt="banner_IsabellaSMA" src="/images/Banner-Github(768 x 191 px).png" alt="banner_IsabellaSMA" width="75%">
 </p> 
-<h3 align="center">Artista e programadora</h3> <br>
+<h3 align="center">Programadora e Suporte Técnico</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas. Estou iniciando minha carreira em Tecnologia com foco em atuar futuramente na Engenharia de Software.
+Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas. Estou iniciando minha carreira em Tecnologia, focando no mercado de trabalho para atuar como Suporte Técino ou Assistente de TI e aprimorando habilidades na área de programação para futuramente atuar como Engenheira de Software. 
 </p>
 
 #
@@ -15,13 +15,13 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 <h3 align="center">Redes Sociais</h3> 
 <div align="center">
  <a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F">
-  <img width= "30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png">
+  <img width= "30" src="/images/instagram-logo.jpeg">
  </a>
  <a href= "https://www.deviantart.com/1bbyartz">
-  <img width= "85" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/main/deviantart-svgrepo-com.png">
+  <img width= "85" src= "/images/deviantart-logo.png">
  </a>
  <a href="https://isabellasma.itch.io/">
-  <img width="30" src="https://github.com/itchio/itch.io/blob/master/logos/app-icon.png" alt="Itch.io Logo">
+  <img width="30" src="/images/itch-logo.png" alt="Itch.io Logo">
  </a>
  
  </div> 
@@ -34,8 +34,12 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 
 <h3 align="center">Habilidades</h3> <br>
 <div align="left">
- <img width= "35" src= "https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" />
- <img width= "35" src = "https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" />
+ <img width= "35" src= "/images/git-logo.png" alt="git" />
+ <img width= "35" src= "/images/github-logo.png" alt="github" />
+ <img width= "35" src= "/images/python-logo.png" alt="python" />
+ <img width= "35" src= "/images/javascript-logo.png" alt="javascript" />
+ <img width= "35" src= "/images/windows-icone.png" alt="windows" />
+ <img width= "35" src= "/images/linux-icone.png" alt="linux" />
 </div>
 <br>
 
@@ -44,16 +48,7 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 <div style="text-align: center;" align="center">
   <h3>Contribuições</h3>
   <br>
- <!--Commits: GITHUB STATS-->
- <!--title color do primeiro é a cor da bolinha: 00ced1-->
- <!--A cor do texto e icons será: 00ced1-->
-  <!--25837e border color; -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsabellaSMA&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=c1e6e2&title_color=25837e&text_color=20b2aa&border_radius=3&border_color=25837e&icon_color=00ced1" alt="GitHub stats">
  
-<!--MOST USED LANGUAGES-->
-  <a href="https://github.com/IsabellaSMA/github-readme-stats"> 
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsabellaSMA&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=20b2aa&bg_color=c1e6e2&text_color=25837e&border_radius=3&border_color=25837e&count_private=true&hide_progress=true" alt="Most Used Languages">
-  </a>
 </div>
 
 <picture align="center">
