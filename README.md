@@ -15,31 +15,31 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 <h3 align="center">Redes Sociais</h3> 
 <div align="center">
  <a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F">
-  <img width= "30" src="/images/instagram-logo.jpeg">
+  <img width= "40" src="/images/instagram-logo.jpeg">
  </a>
  <a href= "https://www.deviantart.com/1bbyartz">
   <img width= "85" src= "/images/deviantart-logo.png">
  </a>
  <a href="https://isabellasma.itch.io/">
-  <img width="30" src="/images/itch-logo.png" alt="Itch.io Logo">
+  <img width="40" src="/images/itch-logo.png" alt="Itch.io Logo">
  </a>
  
  </div> 
 
  <h3 align="center">Contato</h3>
  <div align="center">
-  <a href = "mailto:silvaisabella721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabellasma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:silvaisabella721@gmail.com"><img src="/images/gmail-logo.png" target="_blank" width="40"></a>
+  <a href="https://www.linkedin.com/in/isabellasma" target="_blank"><img src="/images/linkedin-logo.png" target="_blank" width="40"></a> 
   
 
 <h3 align="center">Habilidades</h3> <br>
 <div align="left">
- <img width= "35" src= "/images/git-logo.png" alt="git" />
- <img width= "35" src= "/images/github-logo.png" alt="github" />
- <img width= "35" src= "/images/python-logo.png" alt="python" />
- <img width= "35" src= "/images/javascript-logo.png" alt="javascript" />
- <img width= "35" src= "/images/windows-icone.png" alt="windows" />
- <img width= "35" src= "/images/linux-icone.png" alt="linux" />
+ <img width= "40" src= "/images/git-logo.png" alt="git" />
+ <img width= "80" src= "/images/github-logo.png" alt="github" />
+ <img width= "40" src= "/images/python-logo.png" alt="python" />
+ <img width= "40" src= "/images/javascript-logo.png" alt="javascript" />
+ <img width= "40" src= "/images/windows-icone.png" alt="windows" />
+ <img width= "40" src= "/images/linux-icone.png" alt="linux" />
 </div>
 <br>
 
