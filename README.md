@@ -28,8 +28,8 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 
  <h3 align="center">Contato</h3>
  <div align="center">
-  <a href = "mailto:silvaisabella721@gmail.com"><img src="/images/gmail-logo.png" target="_blank" width="45"></a>
-  <a href="https://www.linkedin.com/in/isabellasma" target="_blank"><img src="/images/linkedin-logo.png" target="_blank" width="40"></a> 
+  <a href = "mailto:silvaisabella721@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100px"></a>
+  <a href="https://www.linkedin.com/in/isabellasma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor" target="_blank" width="100px"></a> 
   
 
 <h3 align="center">Habilidades</h3> <br>
