@@ -37,8 +37,9 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
  <img width= "40" src= "/images/git-logo.png" alt="git" />
  <img width= "80" src= "/images/github-logo.png" alt="github" />
  <img width= "40" src= "/images/python-logo.png" alt="python" />
- <img width= "45" src= "/images/javascript-logo.png" alt="javascript" />
- <img width= "50" src= "/images/windows-icone.png" alt="windows" />
+ <img width= "45" src= "/images/javascript-logo.png" alt="javascript" /> 
+ <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" />
+ <img width= "50" src= "/images/windows-icone.png" alt="windows"/ >
  <img width= "45" src= "/images/linux-icone.png" alt="linux" />
 </div>
 <br>
@@ -47,12 +48,14 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
  
 <div style="text-align: center;" align="center">
   <h3>Contribuições</h3>
-  <br>
  
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaSMA&commits_year=2026&show_icons=true&theme=transparent&title_color=27CFF5&text_color=27BCE3)](https://github.com/IsabellaSMA/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=compact&show_icons=true&theme=transparent&title_color=27CFF5&text_color=27BCE3&hide=asp.net,shaderlab,hlsl,shell,dockerfile)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabellaSMA/IsabellaSMA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsabellaSMA/IsabellaSMA/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsabellaSMA/IsabellaSMA/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
