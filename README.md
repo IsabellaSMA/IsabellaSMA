@@ -6,7 +6,7 @@
 </p> 
 <h3 align="center">Programadora e Suporte Técnico</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas. Estou iniciando minha carreira em Tecnologia, focando no mercado de trabalho para atuar como Suporte Técino ou Assistente de TI e aprimorando habilidades na área de programação para futuramente atuar como Engenheira de Software. 
+Formada em Desenvolvimento de Jogos Digitais pela ETEC e Tecnóloga em Análise e Desenvolvimento de Sistemas. Apaixonada por Tecnologia e Artes. Atuo no setor do Suporte Técnino enquanto contruo base na área de programação para ser Engenheira de Software/DevSecOps. 
 </p>
 
 #
